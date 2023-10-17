@@ -3,7 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- * _printf - Printf functions
+ * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
  */
@@ -64,4 +64,3 @@ void print_buffer(char buffer[], int *buff_ind)
 
 	*buff_ind = 0;
 }
-
